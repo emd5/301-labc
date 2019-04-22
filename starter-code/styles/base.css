@@ -1,0 +1,18 @@
+/* 
+Apply to elements such as body and main
+Examples include styling of overall font and background color 
+*/
+
+@import url('https://fonts.googleapis.com/css?family=Abel|Oswald:700|Yellowtail|Patrick+Hand');
+
+* {
+  font-family: times;
+}
+
+body {
+  margin-top: 25px;
+  background: #fff;
+}
+
+
+

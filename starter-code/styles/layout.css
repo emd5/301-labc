@@ -1,0 +1,18 @@
+/* 
+Apply to elements such as header, footer, nav, aside
+Classes and IDs can be included here
+ */
+
+nav {
+  margin-top: 25px;
+}
+
+nav, article, aside, footer section {
+  margin: 0 auto;
+  width: 900px;
+}
+
+aside {
+  padding-top: 30px;
+  padding-bottom: 60px
+}
